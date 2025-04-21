@@ -2,6 +2,8 @@
 
 This project is a machine learning-based Sign Language Translator that recognizes hand signs representing numbers from 0 to 9 using a webcam and predicts them in real time.
 
+![Demo](demo.gif)
+
 ## 🎯 Features
 - Real-time prediction with webcam
 - Recognizes numbers 0 to 9 using hand signs
