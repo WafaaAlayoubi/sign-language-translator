@@ -1,4 +1,5 @@
 # ✋ Sign Language Number Translator (0-9)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 This project is a machine learning-based Sign Language Translator that recognizes hand signs representing numbers from 0 to 9 using a webcam and predicts them in real time.
 
